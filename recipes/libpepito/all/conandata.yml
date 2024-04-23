@@ -1,0 +1,5 @@
+sources:
+  "1.0":
+    url:
+      - "https://github.com/jcar87/libpepito/archive/e47314334b1f9487341bcda1d2fd2a273a533c81.tar.gz"
+    sha256: "35014b19026c2b4162d60788e9a4cd009e86fb830bb797b72db20be0cd746489"
